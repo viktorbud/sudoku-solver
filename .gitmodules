@@ -1,0 +1,3 @@
+[submodule "project-sudoku1"]
+	path = project-sudoku1
+	url = https://github.com/viktorbud/sudoku-solver.git
